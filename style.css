@@ -1,0 +1,39 @@
+h1{
+    font-size: 60px;
+}
+
+/* Comment in CSS*/
+.blue{
+    color: blue;
+}
+
+.red{
+    color: red;
+}
+
+#purple{
+    color: rebeccapurple;
+}
+
+.alignLeft{
+    text-align: left;
+}
+.alignCenter{
+    text-align: center;
+}
+
+.alignRight{
+    text-align: right;
+}
+
+.white{
+    color: white;
+}
+
+.blackBackground{
+    background-color: black;
+}
+
+body{
+    background-color: bisque;
+}
